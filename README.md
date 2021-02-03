@@ -1,11 +1,10 @@
-### Hi there 👋
+Hi there 👋
+My name is Marcelo and i`m starting as a dev, i have some projects that i made in here, feel free to take a look. 
 
-<!--
-**marcelo-barbalho/marcelo-barbalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img src="https://camo.githubusercontent.com/f9f35aaabc9c32f59c78098920112217ecfe96588fc0ea151043465c249ce31f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f77656c6c6572736f6e7072656e686f6c61746f2f" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/marcelo-barbalho-cruz/" style="max-width:100%;">
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
