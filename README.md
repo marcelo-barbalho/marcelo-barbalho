@@ -1,6 +1,8 @@
 Hi there 👋
 My name is Marcelo and i`m starting as a dev, i have some projects that i made in here, feel free to take a look. 
 
+```javascript
+
 const marcelo = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS],
@@ -9,3 +11,4 @@ const marcelo = {
   linkedin: "https://www.linkedin.com/in/marcelo-barbalho-cruz/"
   github: "https://github.com/marcelo-barbalho/"
   }
+```
