@@ -9,6 +9,5 @@ const marcelo = {
   tools: [React, Redux, Node, Express, Styled-Components, Jest, MongoDB],
   challenge: "I’m currently working on a social media project in React."
   linkedin: "https://www.linkedin.com/in/marcelo-barbalho-cruz/"
-  github: "https://github.com/marcelo-barbalho/"
   }
 ```
