@@ -9,8 +9,8 @@
 <a href="https://api.whatsapp.com/send?phone=+55 21 97223 6910">
   <img align="left" alt="marcelo whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
-<br>
-My name is Marcelo and i`m starting as a dev, i have some projects that i made in here, feel free to take a look. <br>
+<p>
+My name is Marcelo and i`m starting as a dev, i have some projects that i made in here, feel free to take a look. </p>
 
 ```javascript
 
